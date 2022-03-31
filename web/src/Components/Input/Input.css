@@ -1,0 +1,23 @@
+.main-container {
+  height: 94.5vh;
+  background-color: rgb(53, 53, 53);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+form {
+  /* border: white solid 1px; */
+  width: 80%;
+  padding: 2rem;
+  background-color: #292828;
+}
+.input-group {
+  margin: 1rem;
+}
+.input-group>.form-control, .input-group>.form-select{
+    font-size: 20px;
+}
+.btn-success{
+    width: 60%;
+}

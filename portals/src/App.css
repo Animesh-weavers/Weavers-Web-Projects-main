@@ -1,0 +1,10 @@
+.BUTTON_WRAPPER_STYLES{
+  position: relative;
+  z-index: 1;
+}
+.OTHER_CONTENT_STYLES{
+  position: relative;
+  z-index: 2;
+  background: red;
+  padding: 10px;
+}
